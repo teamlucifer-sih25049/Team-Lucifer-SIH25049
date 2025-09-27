@@ -10,4 +10,3 @@ LLM Backbone: Powered by a custom-tuned large language model optimized for conve
 Context-Aware Responses: Integrates FAQ datasets and custom prompts for domain-specific interactions.
 Modular Backend: Python-based backend with clean API structure for easy integration and scaling.
 Frontend Connectivity: Compatible with browser APIs for voice input/output and UI integration.
-
