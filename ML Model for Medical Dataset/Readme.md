@@ -1,8 +1,8 @@
-Healthcare Disease Prediction Model
+<h1>Healthcare Disease Prediction Model</h1>
 
 An AI-powered disease prediction system that uses patient symptoms as input to predict possible diseases. The model is trained with XGBoost on a labeled dataset and supports interactive symptom-based testing.
 
-Features
+<h2>Features</h2>
 
 Trains a disease prediction model using XGBoost
 
