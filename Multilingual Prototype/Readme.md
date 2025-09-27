@@ -1,8 +1,8 @@
-Multilingual Voice Model LLM
+<h1>🗣️ Multilingual Voice Model LLM</h1>
 
 A powerful multilingual voice-enabled language model designed for real-time interaction, speech synthesis, and intelligent response generation across diverse languages and accents. This project bridges cutting-edge LLM capabilities with voice-based interfaces, enabling seamless communication in multiple languages.
 
-🚀 Features
+<h2>🚀 Features</h2>
 - Multilingual Support: Handles input and output in multiple languages with high accuracy.
 - Voice Integration: Real-time speech-to-text and text-to-speech using LiveKit and Gemini 2.0.
 - LLM Backbone: Powered by a custom-tuned large language model optimized for conversational flow.
