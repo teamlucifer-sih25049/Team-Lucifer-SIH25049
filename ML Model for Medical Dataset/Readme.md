@@ -1,6 +1,6 @@
 <h1>Healthcare Disease Prediction Model</h1>
 
-An AI-powered disease prediction system that uses patient symptoms as input to predict possible diseases. The model is trained with XGBoost on a labeled dataset and supports interactive symptom-based testing.
+An AI-driven system designed to assist in early diagnosis and clinical decision support. By analyzing patient-reported symptoms, the model predicts the most likely diseases from a predefined set of medical conditions. Built with XGBoost, one of the most powerful gradient boosting algorithms, the system leverages machine learning to handle complex symptom-disease relationships with high accuracy. The model is trained on a carefully preprocessed and balanced dataset, ensuring fairness and reliability across different classes. With its ability to encode symptoms, learn disease patterns, and provide predictions in real time, this project demonstrates how AI can be integrated into healthcare to enhance accessibility, support doctors in preliminary assessments, and empower patients with faster insights into their health concerns.
 
 <h2>Features</h2>
 
